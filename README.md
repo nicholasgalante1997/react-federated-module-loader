@@ -197,4 +197,3 @@ You'll noticed there's no funding for this library, and this library will never 
 *Module Federation Docs* [!docs](https://webpack.js.org/concepts/module-federation/)
 *Module Federation Youtube Playlist* [!youtube](https://www.youtube.com/playlist?list=PLNqp92_EXZBLr7p7hn6IYa1YPNs4yJ1t1)
 *Building Microfrontends*[!link](https://www.oreilly.com/library/view/building-micro-frontends/9781492082989/)
-

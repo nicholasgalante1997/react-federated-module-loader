@@ -2,7 +2,15 @@
   "name": "react-federated-module-loader",
   "version": "1.0.0",
   "description": "A utilities library for loading federated modules from non webpack 5 hosts",
-  "main": "dist/index.js",
+  "author": "Nick Galante",
+  "license": "ISC",
+  "homepage": "https://github.com/nicholasgalante1997/",
+  "readme": "dist/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicholasgalante1997/react-federated-module-loader"
+  },
+  "browser": "dist/index.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -14,9 +22,13 @@
     "lint": "eslint ./src -c ./.eslintrc.js",
     "lint:fix": "eslint ./src -c ./.eslintrc.js --fix"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "module",
+    "federation",
+    "webpack",
+    "react",
+    "utilities"
+  ],
   "peerDependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
