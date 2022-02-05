@@ -1,0 +1,2 @@
+1.0.0 - initial release of package, provides useFederatedModule hook
+1.0.1 - correction in location of homepage in package.json, added changelog & backlog

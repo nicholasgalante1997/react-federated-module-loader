@@ -7,6 +7,7 @@ module.exports = {
     'plugin:react/recommended',
     'airbnb',
   ],
+  ignorePatterns: ['**/*.test.*'],
   parser: '@typescript-eslint/parser',
   parserOptions: {
     ecmaFeatures: {
@@ -24,7 +25,7 @@ module.exports = {
     'import/prefer-default-export': 'off',
     'consistent-return': 'off',
     'import/extensions': 'off',
-    'no-unused-vars': 'warn'
+    'no-unused-vars': 'warn',
   },
   settings: {
     'import/resolver': {
